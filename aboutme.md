@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Amateur programamer and software enthusiast
+subtitle: Amateur programmer and software enthusiast
 ---
 
 My name is José Simán. I love programming:
